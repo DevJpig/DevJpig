@@ -1,4 +1,4 @@
-# Hi there :vulcan_salute. I'm DevJpig! I'm a 16-year-old front-end development enthusiast. I'm currently focusing on improving my skills in HTML, CSS, and JavaScript. This README serves as a brief introduction to my GitHub profile and my interests in programming.
+# Hi there 🖖. I'm DevJpig! I'm a 16-year-old front-end development enthusiast. I'm currently focusing on improving my skills in HTML, CSS, and JavaScript. This README serves as a brief introduction to my GitHub profile and my interests in programming.
 
 ## About Me
 - Name: @DevJpig
